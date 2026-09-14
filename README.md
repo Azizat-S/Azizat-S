@@ -18,7 +18,7 @@ I'm a data analyst passionate about helping businesses make sense of their data 
 
 I build practical dashboards,find ways to automate repetitive work, and explore patterns that inform future plans.
 
-Outside of data,I love solving puzzles and the enjoy moments when everything clicks.
+Outside of data,I love solving puzzles and enjoy moments when everything clicks.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
