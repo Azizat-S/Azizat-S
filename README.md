@@ -21,7 +21,7 @@ I build practical dashboards,find ways to automate repetitive work, and explore 
 Outside of data,I love solving puzzles and enjoy moments when everything clicks.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Azizat-S.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
