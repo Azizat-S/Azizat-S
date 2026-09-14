@@ -31,8 +31,8 @@ Outside of data,I love solving puzzles and enjoy moments when everything clicks.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Strengthening my SQL and PostgreSQL skills through hands-on data analysis.
+- Exploring more advanced Power BI features, including DAX, Power Query, and interactive dashboards.
 
 ## 🛠️ Technical Skillset
 
